@@ -1,0 +1,15 @@
+app-header {
+  margin-left: 40px;
+
+}
+
+nav {
+  margin-right: 40px;
+}
+
+.btn {
+  margin-right: 40px;
+  margin-top: 10px;
+  background-color: blue;
+  color: white;
+}
